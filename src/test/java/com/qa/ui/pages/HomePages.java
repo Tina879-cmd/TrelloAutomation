@@ -147,7 +147,6 @@ public class HomePages extends WebDriverWrapper {
      * User validates the card message
      */
     public String validCardMessage() {
-        click(BOARD_TITLE_NAME);
         return findElementByVisibility
                 (By.xpath(
                         "//*[@class='list-card-title js-card-name' and text()='Hello Trello!!']"))
