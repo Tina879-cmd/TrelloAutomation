@@ -1,6 +1,7 @@
 # Trello :
 
 Java project is created using Page Object Model(POM) and Page factory Method design pattern with Maven tool with Junit framework using selenium webdriver.
+UI Automation used for login in the application and validation and API testing used creating cards and validationg the card ID.
 
 ## Steps for QA assignment  :
 
